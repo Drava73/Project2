@@ -5,6 +5,7 @@ class yxx {
 	int x;
 	int y;
 	int nwl;
+	int nwl2;
 	public:
 
 		yxx() {
